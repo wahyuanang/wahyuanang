@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/6c/29/5b/6c295bb7d96719d4f894c68028db91bb.jpg](https://i.pinimg.com/originals/31/97/b8/3197b8ba55563b0747921bbeb851c838.gif" alt="Gambar" width="500"/>
+<img src="[[https://i.pinimg.com/736x/6c/29/5b/6c295bb7d96719d4f894c68028db91bb.jpg](https://i.pinimg.com/originals/31/97/b8/3197b8ba55563b0747921bbeb851c838.gif](https://i.pinimg.com/originals/31/97/b8/3197b8ba55563b0747921bbeb851c838.gif)](https://i.pinimg.com/originals/31/97/b8/3197b8ba55563b0747921bbeb851c838.gif)" alt="Gambar" width="500"/>
 
 
 # 💫 Hi, I'm Wahyu Anang Zulfikri
