@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/31/97/b8/3197b8ba55563b0747921bbeb851c838.gif" alt="Gambar" width="500"/>
+<img src="https://i.pinimg.com/originals/31/97/b8/3197b8ba55563b0747921bbeb851c838.gif" alt="Gambar" width="100%"/>
 
 # 💫 Hi, I'm Wahyu Anang Zulfikri
 
