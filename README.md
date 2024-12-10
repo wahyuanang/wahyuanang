@@ -2,7 +2,12 @@
 
 # 💫 Hi, I'm Wahyu Anang Zulfikri
 
-🌱 I’m currently learning Front End Developer<br>💬 Ask me about HTML, CSS, Bootstrap, Tailwind<br>📫 How to reach me wahyuanngz20@gmail.com
+🌱 I’m currently learning Front End Developer  
+💬 Ask me about HTML, CSS, Bootstrap, Tailwind, React js, Sequelize, Node Js  
+📫 How to reach me wahyuanngz20@gmail.com  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/wahyu-anang-zulfikri-07002829a/)
+
+
 
 
 ## 🌐 Socials:
